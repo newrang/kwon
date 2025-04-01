@@ -2,7 +2,7 @@
 
 int main() {
     printf("Hello world!\n");
-
+    printf("2222\n");
     return 0;
 }
  //#include <stdio.h>
